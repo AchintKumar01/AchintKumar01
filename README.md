@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](C:\Users\achin\Downloads\linkedin.png)](https://linkedin.com/in/achint-kumar-b75b77269)  
+[![LinkedIn](https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064379813770&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&docid=I9QUtTnUHKwTGM&tbnid=hRVO_EXSa77khM&vet=12ahUKEwiXwqCY5sCOAxW1TGwGHdTUISEQM3oECBIQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwiXwqCY5sCOAxW1TGwGHdTUISEQM3oECBIQAA)](https://linkedin.com/in/achint-kumar-b75b77269)  
 
 ---
 
