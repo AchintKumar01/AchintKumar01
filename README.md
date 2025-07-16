@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achint-kumar-b75b77269)  
+[![LinkedIn](C:\Users\achin\Downloads\linkedin.png](https://linkedin.com/in/achint-kumar-b75b77269)  
 
 ---
 
