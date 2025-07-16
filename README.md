@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](C:\Users\achin\Downloads\linkedin.png](https://linkedin.com/in/achint-kumar-b75b77269)  
+[![LinkedIn](C:\Users\achin\Downloads\linkedin.png)](https://linkedin.com/in/achint-kumar-b75b77269)  
 
 ---
 
