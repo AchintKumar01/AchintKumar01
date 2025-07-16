@@ -7,9 +7,6 @@
 - 📫 How to reach me: **achintkumar5432@gmail.com** *(replace with your actual email)*
 
 ### Languages:
-
-### Languages and Tools:
-
 <p align="left">
   <a href="https://www.cprogramming.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;">
