@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/achint-kumar-b75b77269)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achint-kumar-b75b77269)  
 
 ---
 
@@ -21,13 +21,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats
-
-![Achint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchintKumar01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchintKumar01&layout=compact&theme=tokyonight)
-
----
-
 
